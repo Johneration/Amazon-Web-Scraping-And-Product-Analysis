@@ -1,1 +1,1 @@
-# Amazon-Web-Scrapeing-and-Product-Analysis
+# Amazon-Web-Scraping-and-Product-Analysis
